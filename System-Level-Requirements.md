@@ -1,5 +1,4 @@
-
-### Non-functional System Level Requirements.
+### Non-Functional / System Level Requirements.
 
 1. <b>Availability</b> - Desired up-time during which the system and data are available for use. What are the availability requirements?
 
