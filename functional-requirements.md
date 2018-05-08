@@ -1,4 +1,4 @@
-###Functional
+### Functional
 
 Here are the main questions for which I need answers to capture some of the initial requirements for a software development project:
 
